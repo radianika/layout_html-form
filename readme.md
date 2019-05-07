@@ -52,5 +52,5 @@ Add attribute `data-qa="field-placeholder"` to test it correctly.
 
 **Result**
 
-- [DEMO LINK](https://radianika.github.io/ayout_html-form/)
-- [TEST REPORT LINK](https://radianika.github.io/ayout_html-form/report/html_report/)
+- [DEMO LINK](https://radianika.github.io/layout_html-form/)
+- [TEST REPORT LINK](https://radianika.github.io/layout_html-form/report/html_report/)
